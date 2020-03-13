@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="text-autoencoding",
+    name="textfile-autoencoding",
     version=datetime.datetime.now().strftime("%Y.%m.%d"),
     author="Charalampos Gkikas",
     author_email="hargikas@gmail.com",
