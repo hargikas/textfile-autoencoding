@@ -2,6 +2,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc hendrerit nisl qui
 
 Δοκιμή με ελληνικούς χαρακτήρες. Έχουμε το περίεργο χαρακτήρα Ά.
 
+Δοκιμές με τους collision χαρακτήρες: µ, ¶,‘, ’,¤, ¥, €
+
 Proin consequat lorem sed eros mattis, vel consectetur tortor elementum. Nulla vestibulum ante ac magna viverra, ac volutpat felis posuere. Curabitur eu cursus nisl, non venenatis massa. Quisque tempor mauris magna, ac lacinia nulla varius id. Integer porttitor convallis gravida. Phasellus tristique massa vitae quam faucibus, non commodo purus malesuada. Suspendisse potenti. Vivamus dignissim, nisi sed placerat euismod, magna urna auctor massa, id scelerisque libero metus a quam. Vestibulum quis mattis dolor. Nam suscipit urna orci, a vulputate velit tincidunt eu. Vivamus efficitur turpis in congue tempus. Morbi dignissim venenatis eros sed fringilla. Phasellus fermentum nisi ut ullamcorper rutrum.
 
 Mauris enim ante, maximus ac iaculis non, faucibus quis dolor. Sed ut mollis ligula. Nam nec maximus ante. Nam efficitur lacus vitae sagittis ultricies. Donec id leo ipsum. Vestibulum iaculis nibh nec metus aliquam, et faucibus quam accumsan. Mauris tristique nunc in orci scelerisque sagittis. Nulla ultricies, neque nec vestibulum finibus, ipsum urna dapibus eros, id congue ante lectus ut nunc. Sed tempor orci non fermentum dapibus. Maecenas risus ipsum, tristique non magna nec, viverra mattis velit. Phasellus eget ligula in dolor tincidunt ultrices sed sit amet sapien.
