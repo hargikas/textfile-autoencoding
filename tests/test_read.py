@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from autofile import easyread_open
+import autofile
 
 
 class TestOpenFileForRead(unittest.TestCase):
@@ -16,6 +16,6 @@ class TestOpenFileForRead(unittest.TestCase):
     def test_is_sentence_included(self):
         for encoding, filename in self.input_files.items():
             with self.subTest(encoding=encoding):
-                with easyread_open(filename) as f_obj:
+                with autofile.open(filename) as f_obj:
                     data = f_obj.read()
                     self.assertIn(self.test_sentence, data)
